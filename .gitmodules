@@ -1,3 +1,6 @@
 [submodule "learningcxx"]
 	path = learningcxx
 	url = https://github.com/ttaohe/learning-cxx-2024winter.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/ttaohe/learning-cxx-2024winter.git
